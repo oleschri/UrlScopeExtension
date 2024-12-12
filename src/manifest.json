@@ -12,5 +12,8 @@
           "https://*/*"
         ]
       }
-    ]
+    ],
+    "icons": {
+      "128": "res/urlscope_logo.png"
+    }
   }
