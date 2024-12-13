@@ -11,3 +11,4 @@ Privacy & Security
 
 ![Screenshot](urlscope_screenshot.png)
 
+Logo based on [Microscope Vectors by Vecteezy](https://www.vecteezy.com/free-vector/microscope)
