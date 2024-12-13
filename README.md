@@ -1,5 +1,5 @@
 # UrlScope Chrome Extension
-![Logo](src/res/urlscope_logo.png){:height="64px" width="64px"}
+![Logo](src/res/urlscope_logo.png)
 
 When navigating to a web site, UrlScope flashes the hostname of the URL on top of the page highlighting the most relevant part.
 
